@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+}
+body {
+  background: rgb(135, 171, 225);
+}
+.navigation-links {
+  text-align: center;
+  font-size: large;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
