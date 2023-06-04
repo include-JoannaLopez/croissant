@@ -7,8 +7,10 @@ body {
 .navigation-links {
   text-align: center;
   font-size: large;
+  color: white;
 }
 img {
+  display: block;
   max-width: 100%;
   height: auto;
 }
